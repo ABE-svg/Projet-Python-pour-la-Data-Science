@@ -1,6 +1,6 @@
 # Projet python pour la datascience - ENSAE - 2A
 
-** _Auteurs: ABE Kevin, DEMGNE Lisa, Oscar_ **
+**_Auteurs: ABE Kevin, DEMGNE Lisa, Oscar_**
 
 ## Sujet:
 Un accident de la route ou accident de la circulation est entendu comme une collision non voulue, non prévue et mal anticipée d'au moins un engin roulant avec une chose, un animal ou une personne sur une voie publique ou privée ouverte à la circulation.Ils constituent un véritable fléau mondial, causant chaque année des milliers de morts et de blessés. Ces tragédies bouleversent des vies et ont un impact considérable sur la société. En France, la lutte contre ce phénomène est prise en charge au niveau national par la délégation à la sécurité routière, qui se sert des éclairages fourni par un document d'information édité annuellement par l'ONISR (Observatoire National Interministériel de la Sécurité Routière) faisant la synthèse des principales données de l'accidentologie.
