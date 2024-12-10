@@ -26,5 +26,8 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 - [Base des lieux](https://www.data.gouv.fr/fr/datasets/r/8bef19bf-a5e4-46b3-b5f9-a145da4686bc)
 - [Base des caractéristiques des accidents](https://www.data.gouv.fr/fr/datasets/r/104dbb32-704f-4e99-a71e-43563cb604f2)
 
+## Références
+
+[regression lasso](https://www.ibm.com/fr-fr/topics/lasso-regression)
 
 
