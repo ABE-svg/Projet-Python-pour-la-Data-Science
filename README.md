@@ -32,3 +32,4 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 [regression lasso](https://www.ibm.com/fr-fr/topics/lasso-regression)
 
 
+ajouter les références, décrire les packages qui sont utilisés, et la procédure pour parcourir le projet
