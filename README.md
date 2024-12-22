@@ -8,7 +8,20 @@ La France a signé les déclarations européennes de La Valette en 2017 et de St
 Ce projet a pour objectif d'analyser les données des accidents corporels de la circulation routière établies par l'ONISR, et de  déterminer les facteurs pouvant influencer la gravité d'un accident.
 
 ## Intérêt
-Un Etat des lieux de l'accidentologie pour une année donnée renseigne les forces de l'ordre sur l'éfficacité ou non des mesures en place pour limiter les accidents routiers. De plus, l'identification des facteurs à risque peut aider à l'optimisation des patrouilles de polices ainsi que la circonscription des points de sensibilisation.
+Un état des lieux de l'accidentologie pour une année donnée renseigne les forces de l'ordre sur l'éfficacité ou non des mesures en place pour limiter les accidents routiers. De plus, l'identification des facteurs à risque peut aider à l'optimisation des patrouilles de polices ainsi que la circonscription des points de sensibilisation.
+
+## Installation
+
+Il est possible que certains packages ne soient pas à priori installés par défaut. Il s'agit des packages:
+- requests : interagir avec des APIs et des services web python;
+- ipywidgets: outils pour rendre les notebooks Jupyter plus dynamiques et interactifs;
+- io
+- tabulate
+- os : éssentielle pour les opérations qui nécessitent une interaction avec le système d'exploitation;
+- scipy
+
+## Outils utilisés
+
 
 ## Statistiques descriptives
 Pour le description des données, nous utiliserons essentiellement des méthodes d'analyse descriptive univariée et bivariée.
@@ -20,6 +33,8 @@ Nous avons utiliser un modèle de régression logistique multivarié ( étant do
 
 - [Base de données annuelles des accidents corporels de la circulation routière](https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2023/?reuses_page=1#/resources)
 - [Code officiel géographique](https://www.insee.fr/fr/metadonnees/source/operation/s2085/bases-donnees-ligne): où nous avons pris les données sur les codes INSEE des départements et leur noms.
+- [Données de population par département en France]("https://www.insee.fr/fr/statistiques/fichier/7752095/estim-pop-dep-sexe-gca-1975-2024.xls")
+
 
 Liens de téléchargement des bases de données annuelles sur les accidents corporels de la circulation routière en 2023:
 - [Base des usagers](https://www.data.gouv.fr/fr/datasets/r/68848e2a-28dd-4efc-9d5f-d512f7dbe66f)
@@ -30,6 +45,15 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 ## Références
 
 [regression lasso](https://www.ibm.com/fr-fr/topics/lasso-regression)
+[regression logistique avec scikit learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+### Parcours du projet
+
+Le parcours du projet se fait en exécutant consécutivement les cellules du notebook.
+
+### Limites du projet
 
 
-ajouter les références, décrire les packages qui sont utilisés, et la procédure pour parcourir le projet
+### Contacts
+
+- lisabrice.demgnewafeu@ensae.fr
