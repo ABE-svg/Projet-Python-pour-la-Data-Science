@@ -49,7 +49,8 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 
 ### Parcours du projet
 
-Le parcours du projet se fait en exécutant consécutivement les cellules du notebook.
+- Le parcours du projet se fait en exécutant consécutivement les cellules du notebook.
+- En fonction de l'environnement dans lequel le notebook est exécuté, ll se pourrait que l'exécution des cellules dans la partie modélisation prennent beaucoup de temps ou bien s'exécute indéfiniment. Il faudrait augmenté la puissance de calcul, ou bien télécharger le notebook et l'exécuter en local sur un ordinateur.
 
 ### Limites du projet
 
