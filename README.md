@@ -58,3 +58,5 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 ### Contacts
 
 - lisabrice.demgnewafeu@ensae.fr
+- Oscar.zaidan@ensae.fr
+- kevin.abe@ensae.fr
