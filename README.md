@@ -1,6 +1,6 @@
 # Projet python pour la datascience - ENSAE - 2A
 
-**_Auteurs: ABE Kevin, DEMGNE Lisa, Oscar_**
+**_Auteurs: ABE Kevin, DEMGNE Lisa, ZAIDAN Oscar_**
 
 ## Sujet: **Analyse des Facteurs Influençant la Gravité des Accidents de la Circulation en France**
 Les accidents de la circulation routière constituent l'une des préoccupations majeures des autorités francaises depuis des années. De l’après guerre à nos jours, environ 700 000 personnes ont été tuées sur les routes de France (OSNIR). Un ensemble de politiques ont été mises sur pieds pour lutter contre ce fléau. Par exemple, le permis à point est instauré en 1992 dans le but de pénaliser la mauvaise conduite. En 2001, Le Conseil national de la sécurité routière (CNSR) voit le jour. Il rassemble les principaux acteurs de la sécurité routière, avec leurs compétences et sensibilités respectives, afin qu’ils puissent débattre, échanger et réfléchir pour formuler des propositions concrètes à l’attention du Gouvernement pour inverser la courbe de la mortalité routière. L'ensemble de mesures mises en place par le CNSR ont entrainé une baisse de la mortalité de 51% sur la période 2002-2012 et de 11% sur la période 2012-2019. Il faut noter que les données statistiques nationales de sécurité routière sont collectées, mises en forme, interprétées et diffusées par L'Observatoire national interministériel de la sécurité routière (ONISR) ce qui assure un suivi continu de l'évolution de la courbe de mortalité dû aux accidents de la circulation routière.
