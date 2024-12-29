@@ -12,15 +12,22 @@ Un état des lieux de l'accidentologie pour une année donnée renseigne les for
 
 ## Installation
 
-Il est possible que certains packages ne soient pas à priori installés par défaut. Il s'agit des packages:
-- requests : interagir avec des APIs et des services web python;
-- ipywidgets: outils pour rendre les notebooks Jupyter plus dynamiques et interactifs;
+Les packages utilisés dans ce projet sont:
+- requests
+- matplotlib
+- os
+- geopandas
+- pandas
+- plotly
+- folium
+- seaborn
 - io
 - tabulate
-- os : éssentielle pour les opérations qui nécessitent une interaction avec le système d'exploitation;
 - scipy
+- numpy
+- sklearn
 
-## Outils utilisés
+Il faudra au préalable installé les packages: requests, io, os, tabulate, scipy
 
 
 ## Statistiques descriptives
@@ -44,8 +51,10 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 
 ## Références
 
-[regression lasso](https://www.ibm.com/fr-fr/topics/lasso-regression)
-[regression logistique avec scikit learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [regression lasso](https://www.ibm.com/fr-fr/topics/lasso-regression)
+- [regression logistique avec scikit learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- Description des bases de données annuelles des accidents corporels de la circulation routière Années de 2005 à 2023, ONISR. (disponible dans le repo)
+- 
 
 ### Parcours du projet
 
@@ -54,6 +63,9 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 
 ### Limites du projet
 
+Les résultats de ce projet pourraient être améliorer et mieux affinées. L'on pourrait:
+- Utiliser des outils tels que les boîtes noires ou les caméras embarquées pour mieux comprendre les comportements des conducteurs avant, pendant et après un accident.
+- Mener des études plus poussées sur les accidents impliquant des véhicules de transport en commun, des engins lourds et des manoeuvres à contre-sens afin de mieux comprendre les causes et de mettre en place des mesures préventives adaptées.
 
 ### Contacts
 
