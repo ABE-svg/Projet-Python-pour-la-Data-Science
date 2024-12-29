@@ -31,10 +31,10 @@ Il faudra au préalable installé les packages: requests, io, os, tabulate, scip
 
 
 ## Statistiques descriptives
-Pour le description des données, nous utiliserons essentiellement des méthodes d'analyse descriptive univariée et bivariée.
+Pour la description des données, nous utiliserons essentiellement des méthodes d'analyse descriptive univariée et bivariée.
 
 ## Modélisation
-Nous avons utiliser un modèle de régression logistique multivarié ( étant donné que la variable cible qui est ici le niveau de gravité de l'accident a plus de deux catégories). Ce modèle nous permet d'identifier les facteurs déterminant du niveau de gravité d'un accident, et aussi d'estimer la probabilité de la gravité de l'accident en fonction des variables explicatives.
+Nous avons utilisé un modèle de régression logistique multivariée (étant donné que la variable cible, qui est ici le niveau de gravité de l'accident, comporte plus de deux catégories). Ce modèle nous permet d'identifier les facteurs déterminants du niveau de gravité d'un accident, ainsi que d'estimer la probabilité de gravité de l'accident en fonction des variables explicatives.
 
 ## Sources des données
 
@@ -58,14 +58,14 @@ Liens de téléchargement des bases de données annuelles sur les accidents corp
 
 ### Parcours du projet
 
-- Le parcours du projet se fait en exécutant consécutivement les cellules du notebook.
-- En fonction de l'environnement dans lequel le notebook est exécuté, ll se pourrait que l'exécution des cellules dans la partie modélisation prennent beaucoup de temps ou bien s'exécute indéfiniment. Il faudrait augmenté la puissance de calcul, ou bien télécharger le notebook et l'exécuter en local sur un ordinateur.
+- Le parcours du projet se fait en exécutant successivement les cellules du notebook.
+- En fonction de l'environnement dans lequel le notebook est exécuté, il se pourrait que l'exécution des cellules dans la partie modélisation prenne beaucoup de temps ou s'exécute indéfiniment. Il faudrait augmenter la puissance de calcul ou télécharger le notebook pour l'exécuter localement sur un ordinateur.
 
 ### Limites du projet
 
-Les résultats de ce projet pourraient être améliorer et mieux affinées. L'on pourrait:
+Les résultats de ce projet pourraient être améliorés et mieux affinés. Il serait possible de :
 - Utiliser des outils tels que les boîtes noires ou les caméras embarquées pour mieux comprendre les comportements des conducteurs avant, pendant et après un accident.
-- Mener des études plus poussées sur les accidents impliquant des véhicules de transport en commun, des engins lourds et des manoeuvres à contre-sens afin de mieux comprendre les causes et de mettre en place des mesures préventives adaptées.
+- Mener des études plus approfondies sur les accidents impliquant des véhicules de transport en commun, des engins lourds et des manœuvres à contresens, afin de mieux comprendre les causes et de mettre en place des mesures préventives adaptées.
 
 ### Contacts
 
